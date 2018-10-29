@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: "Vatsal Bhesaniya",
+    location: "Surat, India",
+    latitude: 21.170240,
+    longitude: 72.831062,
+  },
+  {
     name: 'Akarsh Singh',
     location: 'Tamil Nadu, India',
     latitude: 11.127123,
